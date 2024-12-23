@@ -1,11 +1,11 @@
-name = "cf-worker-ws-dev"
+name = "vip.vps.aldi.net"
 main = "_worker.js"
 compatibility_date = "2023-05-26"
 # node_compat = true
 workers_dev = true
 
 [vars]
-# PROXYIP = "211.230.110.231:50008"
-UUID = "1b6c1745-992e-4aac-8685-266c090e50ea"
+# PROXYIP = "118.97.12.36:443"
+UUID = "1ab0a8c4-6f68-41c0-b574-845cd45e1bec"
 # SOCKS5 = "127.0.0.1:1080"
 # SOCKS5_RELAY = "true"
